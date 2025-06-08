@@ -6,3 +6,4 @@ for xval in x:
     z.append(xval**3)
 
 print("The values squared from for loop are:{}".format(y))
+print("The values cubed from for loop are:{}".format(z))
